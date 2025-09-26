@@ -21,10 +21,9 @@ Follow these steps to get your local environment set up and running.
 ### 1. Clone the Repository
 First, clone this repository to your local machine and navigate into the project directory.
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Seventro/Xlate_Ai
 cd XLate-AI 
 ```
-*(Note: Replace `<your-repository-url>` with your actual Git repository URL and `XLate-AI` with your directory name if different.)*
 
 ### 2. Install Python Packages
 Install all the necessary Python libraries listed in the `requirements.txt` file. This command will set up all the dependencies for the project.
