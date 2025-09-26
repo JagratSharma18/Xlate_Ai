@@ -22,7 +22,7 @@ Follow these steps to get your local environment set up and running.
 First, clone this repository to your local machine and navigate into the project directory.
 ```bash
 git clone https://github.com/Seventro/Xlate_Ai
-cd XLate-AI 
+cd Xlate_Ai
 ```
 
 ### 2. Install Python Packages
