@@ -1,4 +1,4 @@
-# XLate AI
+# XLate AI 🌐🤖
 
 Welcome to **XLate AI**! This project brings the power of advanced AI to your local machine, allowing you to run Large Language Models (LLMs) completely **offline**.
 
@@ -14,16 +14,17 @@ Before you begin, ensure you have the following installed on your system:
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 Follow these steps to get your local environment set up and running.
 
 ### 1. Clone the Repository
 First, clone this repository to your local machine and navigate into the project directory.
 ```bash
-git clone https://github.com/Seventro/Xlate_Ai
-cd Xlate_Ai
+git clone <your-repository-url>
+cd XLate-AI 
 ```
+*(Note: Replace `<your-repository-url>` with your actual Git repository URL and `XLate-AI` with your directory name if different.)*
 
 ### 2. Install Python Packages
 Install all the necessary Python libraries listed in the `requirements.txt` file. This command will set up all the dependencies for the project.
@@ -49,7 +50,7 @@ ollama pull nomic-embed-text
 
 ---
 
-## How to Run the Application
+## ▶️ How to Run the Application
 
 Once the setup is complete, you can start the XLate AI application using Chainlit.
 

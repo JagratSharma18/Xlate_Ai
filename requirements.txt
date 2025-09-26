@@ -1,0 +1,8 @@
+chainlit==2.0.3
+ollama==0.4.7
+PyMuPDF==1.25.2
+numpy==1.26.2
+tenacity==8.2.3
+pydub==0.25.1
+deep_translator==1.11.4
+requests==2.32.3

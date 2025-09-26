@@ -1,0 +1,23 @@
+/* chainlit footer */
+.css-1705j0v {
+    display: none;
+}
+
+.watermark {
+    display: none !important;
+  }
+
+a img[alt="watermark"] {
+    display: none;
+    }
+    a img[alt="watermark"] {
+        display: none;
+        }
+    
+    a[href*='https://github.com/Chainlit/chainlit'] {
+    visibility: hidden;
+    }
+
+    a[href*='https://github.com/Chainlit/chainlit'] {
+        visibility: hidden;
+    }
