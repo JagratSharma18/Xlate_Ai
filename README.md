@@ -1,4 +1,4 @@
-# XLate AI 🌐🤖
+# XLate AI
 
 Welcome to **XLate AI**! This project brings the power of advanced AI to your local machine, allowing you to run Large Language Models (LLMs) completely **offline**.
 
@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to get your local environment set up and running.
 
@@ -50,7 +50,7 @@ ollama pull nomic-embed-text
 
 ---
 
-## ▶️ How to Run the Application
+## How to Run the Application
 
 Once the setup is complete, you can start the XLate AI application using Chainlit.
 
