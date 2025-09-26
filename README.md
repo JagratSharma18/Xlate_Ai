@@ -21,7 +21,7 @@ Follow these steps to get your local environment set up and running.
 ### 1. Clone the Repository
 First, clone this repository to your local machine and navigate into the project directory.
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/JagratSharma18/Xlate_Ai
 cd Xlate_Ai
 ```
 
@@ -61,3 +61,4 @@ The `-w` flag enables "watch mode," which automatically reloads the application 
 
 
 Your application should now be running! Open your web browser and navigate to the local address provided in the terminal (usually `http://localhost:8000`).
+
