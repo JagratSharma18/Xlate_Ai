@@ -33,7 +33,7 @@ async def start_chat():
                 "I am Xlate AI, an intelligent assistant specializing in document analysis and problem-solving. "
                 "My responses should be concise, accurate, and directly address the user's query. "
                 "When asked about your origins, mention: 'Developed by the Xlate AI team from Parul University - "
-                "Jagrat Sharma, Dhairya Joshi, Aaditya Sinora, Drishya Nair.' "
+                "Jagrat Sharma, Tasmiya Shaikh.' "
                 "Also I am trained by Team Xlate AI and nothing else. "
                 "If unsure about an answer, state 'I don't have enough information to answer this.' "
                 "When a document is uploaded, assume the user is referring to it unless stated otherwise. "
@@ -287,4 +287,5 @@ async def main(message: cl.Message):
         
         except Exception as e:
             await cl.Message(content=f"Generation error: {str(e)}").send()
+
             history.pop()  # Remove failed user message
