@@ -1,4 +1,4 @@
-# XLate AI 🌐🤖
+# XLate AI
 
 Welcome to **XLate AI**! This project brings the power of advanced AI to your local machine, allowing you to run Large Language Models (LLMs) completely **offline**.
 
@@ -6,7 +6,7 @@ XLate AI is more than just a chatbot; it comes with advanced features like **Ret
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
 * **Python 3.8+**
@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to get your local environment set up and running.
 
@@ -22,9 +22,8 @@ Follow these steps to get your local environment set up and running.
 First, clone this repository to your local machine and navigate into the project directory.
 ```bash
 git clone <your-repository-url>
-cd XLate-AI 
+cd Xlate_Ai
 ```
-*(Note: Replace `<your-repository-url>` with your actual Git repository URL and `XLate-AI` with your directory name if different.)*
 
 ### 2. Install Python Packages
 Install all the necessary Python libraries listed in the `requirements.txt` file. This command will set up all the dependencies for the project.
@@ -50,7 +49,7 @@ ollama pull nomic-embed-text
 
 ---
 
-## ▶️ How to Run the Application
+## How to Run the Application
 
 Once the setup is complete, you can start the XLate AI application using Chainlit.
 
@@ -59,5 +58,6 @@ Run the following command in your terminal from the project's root directory:
 chainlit run script.py -w
 ```
 The `-w` flag enables "watch mode," which automatically reloads the application whenever you save a change in the source file.
+
 
 Your application should now be running! Open your web browser and navigate to the local address provided in the terminal (usually `http://localhost:8000`).
